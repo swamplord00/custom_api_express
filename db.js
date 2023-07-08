@@ -1,0 +1,1 @@
+[{"id":1,"marca":"Gibson","modelo":"Les paul","precio":6000,"cantidad":2},{"id":2,"marca":"Fender","modelo":"Telecaster","precio":3000,"cantidad":4},{"id":3,"marca":"Gibson","modelo":"leyend","precio":9000,"cantidad":1},{"id":5,"marca":"Ibañez","modelo":"JEM","precio":7000,"cantidad":7}]
